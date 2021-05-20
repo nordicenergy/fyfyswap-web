@@ -10,7 +10,7 @@
 	color: #fff;
 }
 .cc-link {
-	color: #ed145b;
+	color: #202060;
 }
 .cc-btn {
 	padding: 8px 20px;
@@ -21,13 +21,13 @@
 }
 .cc-btn:hover {
 	text-decoration: none!important;
-	background-color: #ed145b!important;
+	background-color: #202060!important;
 	color: #fff!important;
 }
 
 a.pink:hover {
 	background: #ddd!important;
-	color: #ed145b!important;
+	color: #202060!important;
 }
 a.purple:hover {
 	background: #ddd!important;
@@ -86,7 +86,7 @@ a.link {
 	margin:-16px 0 -12px;padding:0;color:#fff8;font-size:1.5em;font-weight:100;
 }
 .qRoadmap {
-	color: #ed145b;font-weight:600;font-size:1.125em;
+	color: #202060;font-weight:600;font-size:1.125em;
 }
 .headline2 {
 	font-weight:600;font-size:1.5em !important;
@@ -95,9 +95,9 @@ a.link {
 .svgArrowTop{width:18px;height:18px;margin-top:1em;}
 .mp0{margin:0;padding:0;}
 .hw18px{width:18px;height:18px}
-.svgPolkaswap{width:250px;height:67px;margin:1em 0;}
+.svgFYFYSWAP{width:250px;height:67px;margin:1em 0;}
 .bgSidebar{background:rgba(11,9,53,.95);}
-.svgPolkaswapM{width:200px;height:53px;margin:30px 0 0;}
+.svgFYFYSWAPM{width:200px;height:53px;margin:30px 0 0;}
 .svgWeb3M{width:150px;height:52px;margin:2em 0;}
 .tdu{text-decoration:underline;}
 .z11{z-index:11;}
